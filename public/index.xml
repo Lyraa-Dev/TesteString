@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>String Em JavaScript</title>
+    <link>https://example.org/</link>
+    <description>Recent content on String Em JavaScript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2023 15:56:17 -0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/string-em-javascript/</link>
+      <pubDate>Mon, 04 Dec 2023 15:56:17 -0300</pubDate>
+      <guid>https://example.org/posts/string-em-javascript/</guid>
+      <description>String com JavaScript! Em JavaScript, uma string é uma sequência de caracteres, sendo delimitada por aspas simples (&amp;rsquo;&amp;rsquo;) ou duplas (&amp;quot;&amp;quot;).
+O que é uma String Uma string é uma coleção de caracteres que representa texto. Em JavaScript, as strings são imutáveis, o que significa que não podem ser alteradas diretamente.
+Métodos de Manipulação de String Existem vários métodos para manipulação de strings em JavaScript, incluindo:
+length: Retorna o comprimento da string.</description>
+    </item>
+  </channel>
+</rss>
